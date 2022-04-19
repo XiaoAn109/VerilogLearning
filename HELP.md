@@ -4,4 +4,5 @@
 ### git fetch origin main --fetch remote branch(es) to local
 ### git checkout -b master origin/main --creat new branch "master" locally and switch to it,then make it track the remote branch "main"
 ### git pull origin main --pull the content from the remote branch "main" to local branch
+### git push [remote hostname] [local branch name]:[remote branch name] --[ ] is option here.
 ### continuing...
